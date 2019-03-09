@@ -1,3 +1,7 @@
 ---
+<<<<<<< HEAD
 - name: web 
   hosts: all
+=======
+- name: 
+>>>>>>> branch1
